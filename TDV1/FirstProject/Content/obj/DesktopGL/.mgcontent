@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>Y:/TDV/TDV1/FirstProject/Content/Character4.png</File>
+    <File>Y:/TDV/TDV1/FirstProject/Content/CrateDark_Brown.png</File>
+    <File>Y:/TDV/TDV1/FirstProject/Content/EndPoint_Blue.png</File>
+    <File>Y:/TDV/TDV1/FirstProject/Content/File.spritefont</File>
+    <File>Y:/TDV/TDV1/FirstProject/Content/WallRound_Brown.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
